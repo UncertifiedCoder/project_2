@@ -1,2 +1,2 @@
 un nouveau petit fichier fait son apparition :)
-another line from master branch :-)
+another line from master branch combined with the awesome branch ! :-D
